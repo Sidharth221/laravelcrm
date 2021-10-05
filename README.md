@@ -1,3 +1,3 @@
-download the project
-create database with name crm
-import database file crm.sql from the project folder into database crm
+Download the project.
+Create database with name crm.
+Import database file crm.sql from the project folder into database crm.
