@@ -1,5 +1,5 @@
 
-  Open master branch   
+   
    Download the project.     
       I have used laravel/ui.     
         Please install laravel/ui and npm install && npm run dev before running the project     
