@@ -1,4 +1,5 @@
 # laravelcrm
+Open master branch    
 
 Download the project.             
        Create database with name crm.           
